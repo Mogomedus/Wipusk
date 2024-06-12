@@ -75,7 +75,7 @@ main img {
     border-radius: 5px;
 }
 
-header a:active{
+header a:hover{
     color: white;
     border-radius: 5px;
     background:rgb(0, 0, 0);
